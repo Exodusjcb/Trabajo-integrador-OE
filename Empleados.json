@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "dni": "12345678",
+        "fecha_ingreso": "2020-01-15",
+        "supervisor": "María Gómez",
+        "dias_disponibles": 15,
+        "departamento": "IT"
+    },
+    {
+        "id": 2,
+        "nombre": "Ana López",
+        "dni": "87654321",
+        "fecha_ingreso": "2018-05-20",
+        "supervisor": "Carlos Ruiz",
+        "dias_disponibles": 0,
+        "departamento": "RRHH"
+    },
+    {
+        "id": 3,
+        "nombre": "Pedro Martínez",
+        "dni": "11223344",
+        "fecha_ingreso": "2015-03-10",
+        "supervisor": "María Gómez",
+        "dias_disponibles": 20,
+        "departamento": "IT"
+    },
+    {
+        "id": 4,
+        "nombre": "Laura Fernández",
+        "dni": "99887766",
+        "fecha_ingreso": "2022-07-01",
+        "supervisor": "Carlos Ruiz",
+        "dias_disponibles": 15,
+        "departamento": "Ventas"
+    }
+]

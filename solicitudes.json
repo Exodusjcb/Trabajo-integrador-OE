@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "empleado_id": 1,
+        "empleado_nombre": "Juan Pérez",
+        "fecha_desde": "2026-07-10",
+        "fecha_hasta": "2026-07-20",
+        "dias_solicitados": 11,
+        "dias_extras": 5,
+        "estado": "APROBADO",
+        "supervisor": "María Gómez",
+        "fecha_solicitud": "2026-06-19"
+    },
+    {
+        "id": 2,
+        "empleado_id": 1,
+        "empleado_nombre": "Juan Pérez",
+        "fecha_desde": "2026-01-01",
+        "fecha_hasta": "2026-01-15",
+        "dias_solicitados": 15,
+        "dias_extras": 5,
+        "estado": "APROBADO",
+        "supervisor": "María Gómez",
+        "fecha_solicitud": "2026-06-19"
+    },
+    {
+        "id": 3,
+        "empleado_id": 3,
+        "empleado_nombre": "Pedro Martínez",
+        "fecha_desde": "2026-01-01",
+        "fecha_hasta": "2026-01-15",
+        "dias_solicitados": 15,
+        "dias_extras": 5,
+        "estado": "RECHAZADO",
+        "supervisor": "María Gómez",
+        "fecha_solicitud": "2026-06-19"
+    },
+    {
+        "id": 4,
+        "empleado_id": 4,
+        "empleado_nombre": "Laura Fernández",
+        "fecha_desde": "2026-01-01",
+        "fecha_hasta": "2026-01-15",
+        "dias_solicitados": 15,
+        "dias_extras": 0,
+        "estado": "APROBADO",
+        "supervisor": "Carlos Ruiz",
+        "fecha_solicitud": "2026-06-19"
+    }
+]
