@@ -62,10 +62,7 @@ Empleado inexistente	Nombre no registrado en la BD	❌ Empleado no encontrado
 Empleado → Sistema verifica → Sistema calcula → Supervisor aprueba → Sistema notifica → Fin
 
 👥 Autor
-Julián García - Legajo: [completar con tu legajo]
-
-🔗 Links importantes
-Video Demostración: [completar con el link del video]
+Julián García 
 
 Informe PDF: TPI_Organizacion_Empresarial.pdf
 
@@ -81,17 +78,4 @@ Año: 2026
 📝 Licencia
 Este proyecto fue desarrollado con fines académicos.
 
-text
 
----
-
-## ✅ Instrucciones finales
-
-1. Copiá **TODO el bloque de arriba**.
-2. En tu repositorio de GitHub, hacé clic en **"Add file"** → **"Create new file"**.
-3. Escribí `README.md` como nombre del archivo.
-4. Pegá todo el contenido.
-5. Reemplazá `[tu-usuario]`, `[completar con tu legajo]` y `[completar con el link del video]` con tus datos.
-6. Hacé clic en **"Commit changes"**.
-
----
