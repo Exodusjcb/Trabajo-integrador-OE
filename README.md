@@ -8,25 +8,25 @@ Sistema chatbot para automatizar el proceso de solicitud de vacaciones. Desarrol
 - **JSON** - Base de datos simulada (archivos `.json`)
 - **Consola/Terminal** - Entorno de ejecución
 
-## 📂 Estructura del proyecto
-tpi-vacaciones/
-│
-├── main.py # Código fuente principal
-├── empleados.json # Base de datos de empleados
-├── solicitudes.json # Historial de solicitudes
-├── TPI_Organizacion_Empresarial.pdf # Informe completo
-├── README.md # Este archivo
-│
-└── images/
-├── diagrama-bpmn-as-is.png
-├── diagrama-bpmn-to-be.png
-├── collage-capturas-consola.png
-└── capturas-ia/
-├── captura-ia-1.png
-├── captura-ia-2.png
-└── captura-ia-3.png
+## 📁 Estructura del proyecto
 
-text
+    tpi-vacaciones/
+    ├── main.py # Código fuente principal
+    ├── empleados.json # Base de datos de empleados
+    ├── solicitudes.json # Historial de solicitudes
+    ├── TPI_Organización_Empresarial.pdf # Informe completo
+    ├── README.md # Este archivo
+    └── images/
+        ├── diagrama-bpmn-as-is.png
+        ├── diagrama-bpmn-to-be.png
+        ├── collage-capturas-consola.png
+        └── capturas-ia/
+            ├── captura-ia-1.png
+            ├── captura-ia-2.png
+            └── captura-ia-3.png
+
+
+
 
 ## 🚀 Instalación y ejecución
 ```bash
